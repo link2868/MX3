@@ -1,1 +1,2 @@
-# MX3 https://link2868.github.io/MX3/
+# MX3
+https://link2868.github.io/MX3/
